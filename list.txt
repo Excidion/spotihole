@@ -37,3 +37,4 @@ www.googleadservices.com
 www.googletagservices.com
 www.omaze.com
 i.scdn.co
+audio4-ak.spotify.com.edgesuite.net
