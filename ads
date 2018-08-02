@@ -160,3 +160,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 on3-weblb-wg2.lon3.spotify.com
 0.0.0.0 audio2.spotify.com
 0.0.0.0 video-fa-b.cdn.spotify.com
+0.0.0.0 beta.spotify.map.fastly.net
+0.0.0.0 prod.spotify.map.fastlylb.net
+0.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
