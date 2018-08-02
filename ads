@@ -27,7 +27,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 www.spotx.vt
 0.0.0.0 adclick.g.doublecklick.net
-0.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
 0.0.0.0 beta.spotify.map.fastlylb.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 crashdump.ciqe-gslb.spotify.com
@@ -73,7 +72,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloudfront.net
 0.0.0.0 search.spotxchange.com
 0.0.0.0 scontent.flhr4-1.fna.fbcdn.net
-0.0.0.0 beta.spotify.map.fastly.net
 0.0.0.0 eip-onnet.audio-ak.spotify.com.akahost.net
 0.0.0.0 links.iterable.com
 0.0.0.0 spclient.wg.spotify.com
@@ -88,7 +86,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.spotify.com
 0.0.0.0 googleadservices.com
 0.0.0.0 audio-gc.spotify.com
-0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 prod.spotify-heads.map.fastlylb.net
 0.0.0.0 weblb-wg.dual-gslb.spotify.com
 0.0.0.0 audio-akp-spotify-com.akamaized.net
@@ -100,11 +97,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 rlcdn.com
 0.0.0.0 video-fa.cdn.spotify.com
 0.0.0.0 partner-service-testing.spotify.com
-0.0.0.0 upgrade.spotify.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 video-fa.scdn.co
 0.0.0.0 content.bitsontherun.com
-0.0.0.0 upgrade.scdn.co
 0.0.0.0 audio-fab.spotify.com
 0.0.0.0 js.moatads.com
 0.0.0.0 seen-on-screen.thewhizmarketing.com
