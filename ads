@@ -107,7 +107,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 audio-fab.spotify.com
 0.0.0.0 js.moatads.com
 0.0.0.0 seen-on-screen.thewhizmarketing.com
-0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 audio-akp.spotify.com
