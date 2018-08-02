@@ -145,6 +145,5 @@ lon6-accesspoint-a33.lon6.spotify.com
 prod.spotify.map.fastly.net
 ads-akp.spotify.com
 on3-weblb-wg2.lon3.spotify.com
-ipinfo.io
 audio2.spotify.com
 video-fa-b.cdn.spotify.com
