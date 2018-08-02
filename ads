@@ -76,6 +76,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beta.spotify.map.fastly.net
 0.0.0.0 eip-onnet.audio-ak.spotify.com.akahost.net
 0.0.0.0 links.iterable.com
+0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 spotxchange.com
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 i.scdn.co
