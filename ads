@@ -1,4 +1,4 @@
-# Custom host records are listed here.
+# host records
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local

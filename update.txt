@@ -1,6 +1,0 @@
-upgrade.spotify.com
-www.spotify-desktop.com
-sto3-accesspoint-a88.sto3.spotify.net
-upgrade.scdn.co
-beta.spotify.map.fastly.net
-prod.spotify.map.fastlylb.net
