@@ -77,7 +77,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 spotxchange.com
 0.0.0.0 sync-tm.everesttech.net
-0.0.0.0 i.scdn.co
 0.0.0.0 u.scdn.co
 0.0.0.0 pci.spotify.com
 0.0.0.0 www.googleadservices.com
