@@ -16,6 +16,7 @@ ff02::3 ip6-allhosts
 
 
 # spotify ads
+0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 audio-sp-ash.spotify.com
 0.0.0.0 audio4-ak.spotify.com.edgesuite.net
 0.0.0.0 audio-ake.spotify.com.edgesuite.net
