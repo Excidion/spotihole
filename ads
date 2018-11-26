@@ -162,3 +162,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 beta.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
+0.0.0.0 audio-fac.spotify.com
